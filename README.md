@@ -26,4 +26,3 @@ https://www.saucedemo.com/
 
 ## 🐞 Bugs encontrados
 
-(serão adicionados aqui)
