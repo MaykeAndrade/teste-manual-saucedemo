@@ -22,6 +22,34 @@ https://www.saucedemo.com/
 
 ## 📂 Evidências
 
+### ✅ Login com sucesso
+
+![Login sucesso](login-sucesso.png)
+
+---
+
+### ❌ Erro de login
+
+![Erro login](login-erro.png)
+
+---
+
+### ⚠️ Campo vazio
+
+![Campo vazio](campo-vazio.png)
+
+---
+
+### 🛒 Produto no carrinho
+
+![Produto carrinho](produto-carrinho.png)
+
+---
+
+### 🗑️ Produto removido
+
+![Produto removido](produto-removido.png)
+
 
 
 ## 🐞 Bugs encontrados
