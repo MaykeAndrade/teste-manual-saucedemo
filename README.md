@@ -22,7 +22,7 @@ https://www.saucedemo.com/
 
 ## 📂 Evidências
 
-(prints serão adicionados aqui)
+
 
 ## 🐞 Bugs encontrados
 
