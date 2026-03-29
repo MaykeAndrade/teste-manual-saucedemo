@@ -17,7 +17,7 @@ https://www.saucedemo.com/
 
 ## 🛠️ Ferramentas utilizadas
 
-* Navegador (Chrome/Edge)
+* Navegador (Edge)
 * Testes manuais
 
 ## 📂 Evidências
