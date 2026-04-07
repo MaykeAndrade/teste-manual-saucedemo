@@ -1,4 +1,4 @@
-# 🧪 Testes Manuais - SauceDemo
+[# 🧪 Testes Manuais - SauceDemo
 
 Projeto desenvolvido com o objetivo de simular atividades reais de Quality Assurance (QA), realizando testes manuais em uma aplicação web e documentando bugs encontrados.
 
@@ -104,3 +104,4 @@ teste-manual-saucedemo/
 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS), com foco em Quality Assurance (QA) e testes de software.
 
 Buscando oportunidade de estágio ou posição júnior na área de Tecnologia da Informação.
+](https://github.com/MaykeAndrade/teste-manual-saucedemo)
